@@ -1,2 +1,2 @@
 #!/bin/bash
-inkscape $1 -w 640 -e $1.png
+inkscape $1 -w 640 -e ${1//svg/png}
