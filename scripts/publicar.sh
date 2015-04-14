@@ -23,5 +23,6 @@ inkscape $curvas \
 
 # copiar archivos principales
 rm pythoncabal-web.png pythoncabal.svg
-cp carteles/$fecha-pythoncabal-curvas.svg pythoncabal.svg
+cp carteles/$fecha-pythoncabal.svg pythoncabal.svg
+cp carteles/$fecha-pythoncabal-curvas.svg pythoncabal-curvas.svg
 cp carteles/$fecha-pythoncabal.png pythoncabal-web.png
