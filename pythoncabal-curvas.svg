@@ -2460,10 +2460,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.57712418"
-     inkscape:cx="515.52475"
+     inkscape:cx="485.20199"
      inkscape:cy="564.4905"
      inkscape:document-units="px"
-     inkscape:current-layer="g4368"
+     inkscape:current-layer="g9059"
      width="500px"
      height="300px"
      inkscape:window-width="1364"
@@ -3178,7 +3178,7 @@
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28px;font-family:'PT Sans Narrow';-inkscape-font-specification:'PT Sans Narrow';fill:#fffffd;fill-opacity:1;stroke:#ffffff;stroke-width:1.58037591;stroke-opacity:1"
              id="path4881" />
           <path
-             d="m 104.37176,52.383423 5.656,-16.548 1.008,-1.372 -1.344,0.252 -6.412,0 0,-1.932 9.548,0 0,0.756 -6.44,18.844 -2.016,0 z"
+             d="m 111.70776,32.783423 0,1.96 -5.32,0 0,5.712 0.952,-0.084 q 2.24,0.028 3.528,1.54 1.288,1.512 1.316,4.34 -0.028,1.568 -0.476,2.772 -0.42,1.204 -1.176,2.044 -0.756,0.812 -1.764,1.232 -1.008,0.42 -2.156,0.42 -1.932,0 -3.108,-0.532 l 0.504,-1.792 q 0.504,0.252 1.12,0.364 0.616,0.084 1.428,0.084 1.596,0 2.576,-1.148 1.008,-1.176 1.036,-3.276 -0.028,-2.156 -1.036,-3.192 -0.98,-1.036 -2.744,-1.036 l -1.848,0.14 0,-9.548 7.168,0 z"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28px;font-family:'PT Sans Narrow';-inkscape-font-specification:'PT Sans Narrow';fill:#fffffd;fill-opacity:1;stroke:#ffffff;stroke-width:1.58037591;stroke-opacity:1"
              id="path4883" />
         </g>
